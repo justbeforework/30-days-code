@@ -16,5 +16,16 @@ These are notes I made from freecodecamp.com javascript course
 
     var myVar = 'value';
   
-- Variables have initial value of 'undefined'.
+- Variables have initial value of `undefined`.
+
+- Math on `undefined` = `NaN`
+
+- "string" + `undefined` = "undefined" //contatenation is what this is called
+
+- Variables are case sensitive.
+
+- Use `camelCase` to name variables.
+
+
+
 
